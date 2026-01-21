@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\classes\\clsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|solutionrelative:consoleapp1\\classes\\clsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\classes\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|solutionrelative:consoleapp1\\classes\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\classes\\clsresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|solutionrelative:consoleapp1\\classes\\clsresturant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\classes\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|solutionrelative:consoleapp1\\classes\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|c:\\users\\mohamamad\\desktop\\it_legend\\it legend c# opp\\new folder\\consoleapp1\\consoleapp1\\classes\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ResturantApp oop.csproj|solutionrelative:consoleapp1\\classes\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:51:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsResturant.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsResturant.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\ClsResturant.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsResturant.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\ClsResturant.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:06:43.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsClient.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsClient.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\ClsClient.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsClient.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\ClsClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:37:23.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsAdmin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\ClsAdmin.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsAdmin.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\ClsAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:36:08.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsUser.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\ClsUser.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Classes\\ClsUser.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\ClsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:35:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamamad\\Desktop\\it_legend\\It Legend C# opp\\New folder\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T18:34:25.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

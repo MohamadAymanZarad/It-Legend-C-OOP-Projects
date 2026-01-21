@@ -1,0 +1,14 @@
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ResturantApp oop.exe
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ResturantApp oop.deps.json
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ResturantApp oop.runtimeconfig.json
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ResturantApp oop.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ResturantApp oop.pdb
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.AssemblyInfoInputs.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.AssemblyInfo.cs
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.csproj.CoreCompileInputs.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ResturantApp oop.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.pdb
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ResturantApp oop.genruntimeconfig.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\New folder\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ResturantApp oop.dll

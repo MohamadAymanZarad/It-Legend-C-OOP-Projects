@@ -1,0 +1,14 @@
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Mohamamad\Desktop\it_legend\It Legend C# opp\Hotel Reservation oop\Hotel Reservation\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

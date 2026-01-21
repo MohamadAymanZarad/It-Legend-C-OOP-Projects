@@ -1,0 +1,14 @@
+C:\Users\Mohamamad\source\repos\2026\2026\bin\Debug\net10.0\2026.exe
+C:\Users\Mohamamad\source\repos\2026\2026\bin\Debug\net10.0\2026.deps.json
+C:\Users\Mohamamad\source\repos\2026\2026\bin\Debug\net10.0\2026.runtimeconfig.json
+C:\Users\Mohamamad\source\repos\2026\2026\bin\Debug\net10.0\2026.dll
+C:\Users\Mohamamad\source\repos\2026\2026\bin\Debug\net10.0\2026.pdb
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.AssemblyInfoInputs.cache
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.AssemblyInfo.cs
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.csproj.CoreCompileInputs.cache
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.dll
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\refint\2026.dll
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.pdb
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\2026.genruntimeconfig.cache
+C:\Users\Mohamamad\source\repos\2026\2026\obj\Debug\net10.0\ref\2026.dll
