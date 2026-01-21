@@ -2,13 +2,15 @@
 
 A collection of small C projects and examples designed for learning and practicing Object-Oriented Programming (OOP) techniques using C-style patterns and modular design. This repository is intended as a training playground: focused exercises demonstrating OOP concepts (encapsulation, modularity, interface-like patterns) that are easy to extend.
 
+Note: This repository is primarily for educational purposes and for the personal learning and training of the owner, Mohamad Zarad. Content here may be experimental and intended as practice exercises rather than production-ready code.
+
 ---
 
 ## Goals
 
 - Provide clear, small projects that demonstrate OOP concepts in C (encapsulation via structs + functions, interface-like patterns, modularity).
 - Offer a stable structure that is easy to extend and reuse.
-- Serve as a reusable training repository for exercises, examples, and incremental projects.
+- Serve as a reusable training repository for exercises, examples, and incremental projects. The owner uses this repo to learn and practice OOP techniques in C.
 
 ---
 
